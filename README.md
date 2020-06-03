@@ -9,7 +9,8 @@
 
 
 Note: Buttons with icons needed internet to show. If you don't want internet then erase this type of code you can see in the files:
-"<span class="glyphicon glyphicon-remove">"
+
+-->> span class= glyphicon glyphicon-remove
   
   
   Godbless tangopya HAHAHAHAHHA :)
